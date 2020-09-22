@@ -25,5 +25,5 @@ let title = "CEO and Co-Founder"
 let company = "BrainBlocks.io"
 let timeframe = "January, 2018 - January, 2020"
 
-// for additional details or questions, email me or contact me on LinkedIn/Twitter
+// for additional details or questions, contact me on LinkedIn/Twitter
 ```
