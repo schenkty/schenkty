@@ -1,29 +1,17 @@
-### Hi there 👋
+### Hi I'm Ty 👋
 
-```swift
-// who I am
-let name = "Ty Schenk"
-let location = "San Francisco, California"
-let about = """
-I am a certified iOS Engineer and fluent full stack engineer with more than five years of 
-professional experience writing highly readable, clean, maintainable source code. I have developed 
-multiple applications for iOS, macOS, and Web that offer users an intuitive, and friendly interface.
-"""
+I'm an entrepreneur, software engineer and wannabe golfer.
 
-// where I currently work
-let currentTitle = "Software Engineer"
-let currentCompany = "Turo"
-let timeframe = "March 2020 - Current"
+### Things I work
+[Turo iOS App](https://turo.com)<br />
+[Vybe Cryptocurrency](https://vybe.finance)<br />
+[Vola Crypto Wallet](https://getvola.com)
 
-// previous experience
-let title = "Senior iOS Engineer"
-let company = "Sparkir"
-let timeframe = "July, 2019 - January, 2020"
+### Previous work
+[BrainBlocks](https://brainblocks.io) (January, 2018 - January, 2020)<br />
+[Sparkir](https://sparkir.com) (July, 2019 - January, 2020)<br />
+[Scadata - Custom Solutions](https://scadata.net) (2014-2016)
 
-// previous experience
-let title = "CEO and Co-Founder"
-let company = "BrainBlocks.io"
-let timeframe = "January, 2018 - January, 2020"
-
-// for additional details or questions, contact me on LinkedIn/Twitter
-```
+### Connect with me
+[Twitter](https://twitter.com/schenkty)<br />
+[LinkedIn](https://www.linkedin.com/in/schenkty)
