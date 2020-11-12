@@ -5,8 +5,6 @@ I'm an entrepreneur, software engineer and wannabe golfer.
 ### Things I work on
 [Turo iOS App](https://turo.com)<br />
 [Vybe Cryptocurrency](https://vybe.finance)<br />
-[Vola Crypto Wallet](https://getvola.com)<br />
-[Linkz Tech](https://www.linkz.tech)
 
 ### Previous work
 [BrainBlocks](https://brainblocks.io) (January, 2018 - January, 2020)<br />
