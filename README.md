@@ -7,7 +7,7 @@ I'm an entrepreneur, software engineer and wannabe golfer.
 [Vybe Cryptocurrency](https://vybe.finance)<br />
 
 ### Previous work
-[BrainBlocks](https://brainblocks.io) (January, 2018 - January, 2020)<br />
+[BrainBlocks](https://github.com/brainblocks) (January, 2018 - January, 2020)<br />
 [Sparkir](https://sparkir.com) (July, 2019 - January, 2020)
 
 ### Connect with me
