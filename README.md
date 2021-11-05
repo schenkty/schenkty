@@ -1,17 +1,15 @@
-### Hi I'm Ty 👋
+### hi, i'm ty 👋
 
-I'm an entrepreneur, software engineer and wannabe golfer.
+i'm a software engineer, investor, and wannabe golfer.
 
-### Things I work on
-Something new 🤫
+### things i work on
+cofounder at infinity apps where we are building [Orbit](https://orbitapp.xyz) 🤫
 
-### Previous work
-[Lolly iOS App](https://thelollyapp.com) (March, 2021 - July, 2021)<br />
-[Turo iOS App](https://turo.com) (March, 2020 - March, 2021)<br />
-[Vola Nano Wallet](https://getvola.com)<br />
-[BrainBlocks](https://github.com/brainblocks) (January, 2018 - January, 2020)<br />
-[Sparkir](https://sparkir.com) (July, 2019 - January, 2020)
+### previous work
+lead engineer @ [lolly](https://thelollyapp.com) (march, 21 - july, 21)<br />
+ios engineer @ [turo](https://turo.com) (mar, 20 - mar, 21)<br />
+cofounder at [brainblocks](https://github.com/brainblocks) (jan, 2018 - jan, 2020)<br />
 
-### Connect with me
-[Twitter](https://twitter.com/schenkty)<br />
-[LinkedIn](https://www.linkedin.com/in/schenkty)
+### connect with me
+[twitter](https://twitter.com/schenkty)<br />
+[linkedIn](https://www.linkedin.com/in/schenkty)
