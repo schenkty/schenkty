@@ -3,9 +3,10 @@
 i'm a software engineer, investor, and wannabe golfer.
 
 ### things i work on
-cofounder at infinity apps where we are building [Orbit](https://orbitapp.xyz) 🤫
+partner at Steel Perlot where we are building 🤫
 
 ### previous work
+cofounder at infinity apps where we built [Orbit](https://orbitapp.xyz) (july, 21 - jan, 22)<br />
 ios engineer @ [turo](https://turo.com) (mar, 20 - mar, 21)<br />
 cofounder at [brainblocks](https://github.com/brainblocks) (jan, 2018 - jan, 2020)<br />
 
