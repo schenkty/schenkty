@@ -3,7 +3,7 @@
 i'm a software engineer, investor, and wannabe golfer.
 
 ### things i work on
-partner at Steel Perlot where we are building 🤫
+CEO at LFG Payments where we are building 🤫
 
 ### previous work
 cofounder at infinity apps where we built [Orbit](https://orbitapp.xyz) (july, 21 - jan, 22)<br />
