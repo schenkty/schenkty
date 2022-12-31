@@ -1,14 +1,14 @@
-### hi, i'm ty 👋
+### Hi, I'm Ty 👋
 
-i'm a software engineer, investor, and wannabe golfer.
+I'm a software engineer, serial founder, and investor.
 
-### things i work on
+### What I'm working on
 CEO at [Keeta](https://keeta.com), a global payments platform that safely teleports your money
 
-### previous work
-ios engineer @ [turo](https://turo.com) (mar, 20 - mar, 21)<br />
-cofounder at [brainblocks](https://github.com/brainblocks) (jan, 2018 - jan, 2020)<br />
+### Previous Work
+iOS Engineer @ [Turo](https://turo.com) (Mar, 20 - Mar, 21)<br />
+Co-founder at [Brainblocks](https://github.com/brainblocks) (Jan, 2018 - Jan, 2020)<br />
 
-### connect with me
-[twitter](https://twitter.com/schenkty)<br />
-[linkedIn](https://www.linkedin.com/in/schenkty)
+### Connect with me
+[Twitter](https://twitter.com/schenkty)<br />
+[LinkedIn](https://www.linkedin.com/in/schenkty)
