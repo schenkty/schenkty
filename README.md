@@ -3,7 +3,7 @@
 i'm a software engineer, investor, and wannabe golfer.
 
 ### things i work on
-CEO at LFG Payments where we are building 🤫
+CEO at [Keeta](https://keeta.com), a global payments platform that safely teleports your money
 
 ### previous work
 ios engineer @ [turo](https://turo.com) (mar, 20 - mar, 21)<br />
