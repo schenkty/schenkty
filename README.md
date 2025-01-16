@@ -3,7 +3,7 @@
 I'm a software engineer, founder, and investor.
 
 ### What I'm working on
-CEO at [Keeta](https://keeta.com), a global payments platform that safely teleports your money
+CEO at [Keeta](https://keeta.com), the world's fastest payments network
 
 ### Previous Work
 iOS Engineer @ [Turo](https://turo.com)<br />
